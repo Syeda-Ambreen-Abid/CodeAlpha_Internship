@@ -23,6 +23,3 @@ A simple and elegant **Flask-based Stock Portfolio Tracker** that allows users t
 | **HTML/CSS** | User interface (rendered via `render_template_string`) |
 | **In-memory storage** | Stores user portfolio temporarily (resets when server restarts) |
 
-
-```bash
-git clone https://github.com/YourUsername/CodeAlpha_PythonProgramming.git
